@@ -1,1 +1,1 @@
-print("This is my sample git uploading file")
+print("This is my sample github uploading file")
